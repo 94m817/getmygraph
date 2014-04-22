@@ -1,0 +1,55 @@
+Release 14.7 Map P.20131013 (nt)
+Xilinx Map Application Log File for Design 'xillydemo'
+
+Design Information
+------------------
+Command Line   : map -ol high -xe n -logic_opt on -t 2 -w -p xc7z020-clg484-1 -o
+xillydemo_map.ncd xillydemo.ngd
+D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\run2\xillydemo.
+pcf 
+Target Device  : xc7z020
+Target Package : clg484
+Target Speed   : -1
+Mapper Version : zynq -- $Revision: 1.55 $
+Mapped Date    : Thu Mar 20 15:57:25 2014
+
+Mapping design into LUTs...
+WARNING:MapLib:41 - All members of TNM group "axi_interconnect_0_reset_resync"
+   have been optimized out of the design.
+WARNING:MapLib:48 - The timing specification
+   "TS_axi_interconnect_0_reset_resync" has been discarded because its TO group
+   (axi_interconnect_0_reset_resync) was optimized away.
+Writing file xillydemo_map.ngm...
+Running directed packing...
+Running delay-based LUT packing...
+Updating timing models...
+INFO:Map:215 - The Interim Design Summary has been generated in the MAP Report
+   (.mrp).
+Running timing-driven placement...
+Total REAL time at the beginning of Placer: 2 mins 54 secs 
+Total CPU  time at the beginning of Placer: 1 mins 15 secs 
+
+Phase 1.1  Initial Placement Analysis
+Phase 1.1  Initial Placement Analysis (Checksum:25e4e1c1) REAL time: 3 mins 45 secs 
+
+Phase 2.7  Design Feasibility Check
+Phase 2.7  Design Feasibility Check (Checksum:25e4e1c1) REAL time: 3 mins 47 secs 
+
+Phase 3.31  Local Placement Optimization
+Phase 3.31  Local Placement Optimization (Checksum:25e4e1c1) REAL time: 3 mins 47 secs 
+
+Phase 4.2  Initial Placement for Architecture Specific Features
+
+Phase 4.2  Initial Placement for Architecture Specific Features
+(Checksum:f9004cc8) REAL time: 4 mins 11 secs 
+
+Phase 5.30  Global Clock Region Assignment
+Phase 5.30  Global Clock Region Assignment (Checksum:f9004cc8) REAL time: 4 mins 11 secs 
+
+Phase 6.3  Local Placement Optimization
+Phase 6.3  Local Placement Optimization (Checksum:f9004cc8) REAL time: 4 mins 11 secs 
+
+Phase 7.5  Local Placement Optimization
+Phase 7.5  Local Placement Optimization (Checksum:f9004cc8) REAL time: 4 mins 12 secs 
+
+Phase 8.8  Global Placement

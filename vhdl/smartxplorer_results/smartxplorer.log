@@ -1,0 +1,34 @@
+
+Release 14.7 SmartXplorer
+Copyright(c) 1995-2010 Xilinx, Inc. All rights reserved.
+"E:\Xilinx\14.7\ISE_DS\ISE\bin\nt\smartxplorer.exe" -p xc7z020-clg484-1 -b -wd smartxplorer_results xillydemo.ngd -to "-v 3 -s 1 -n 3 -fastpaths -xml xillydemo.twx " -host_list hostlistfile.txt -max_runs 7
+
+SmartXplorer Settings: 
+
+designName=D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\xillydemo.ngd 
+write_dir=D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results 
+host_list=D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\hostlistfile.txt 
+part=xc7z020-clg484-1 
+strategy_file=None 
+notify=None 
+source_dir=D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl 
+batch_mode=True 
+run_all_strategies=False 
+list_all_strategies=False 
+remote_command=rsh
+area_report="lut;slice_reg"
+power_options=off
+trce_options="-v 3 -s 1 -n 3 -fastpaths -xml xillydemo.twx "
+max_runs=7
+
+Starting SmartXplorer...
+See file 'smartxplorer.html' for real-time report.
+
+
+Running SmartXplorer strategies...
+
+
+Ctrl C detected
+INFO: ...Killing all jobs
+
+SmartXplorer Aborted.

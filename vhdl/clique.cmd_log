@@ -1,0 +1,6 @@
+vhdtdtfi -lib work test.vhd -prj xillydemo -o clique.spl -module clique -template E:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family zynq clique.spl D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/clique.sym 
+vhdtdtfi -prj xillydemo -o D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/clique.vhi -module clique -template E:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work test.vhd 
+vhdtdtfi -lib work test.vhd -prj xillydemo -o clique.spl -module clique -template E:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family zynq clique.spl D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/clique.sym 
+vhdtdtfi -prj xillydemo -o D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/clique.vhi -module clique -template E:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work test.vhd 

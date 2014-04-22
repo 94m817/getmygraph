@@ -1,0 +1,3 @@
+START:Strategy:1:MapRunTime
+REMOTE_PID:5404
+RUNNING:5404:6504:MapRunTime:map:xillydemo.ngd: -ol high -w  -p xc7z020-clg484-1 -o xillydemo_map.ncd  D:cl:bslXillinux:bslxillinux:dseval:dszedboard:ds1.2:bslvhdl:bslsmartxplorer_results:bslrun1:bslxillydemo.pcf

@@ -1,0 +1,3 @@
+START:Strategy:3:MapTimingExtraEffort
+REMOTE_PID:5796
+RUNNING:5796:5428:MapTimingExtraEffort:map:xillydemo.ngd: -ol high -xe n -t 3 -w  -p xc7z020-clg484-1 -o xillydemo_map.ncd  D:cl:bslXillinux:bslxillinux:dseval:dszedboard:ds1.2:bslvhdl:bslsmartxplorer_results:bslrun3:bslxillydemo.pcf

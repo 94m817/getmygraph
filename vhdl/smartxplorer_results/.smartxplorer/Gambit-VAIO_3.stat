@@ -1,0 +1,3 @@
+START:Strategy:4:MapLogicOptRegDup
+REMOTE_PID:6472
+RUNNING:6472:6900:MapLogicOptRegDup:map:xillydemo.ngd: -ol high -xe n -logic_opt on -register_duplication on -t 2 -w  -p xc7z020-clg484-1 -o xillydemo_map.ncd  D:cl:bslXillinux:bslxillinux:dseval:dszedboard:ds1.2:bslvhdl:bslsmartxplorer_results:bslrun4:bslxillydemo.pcf

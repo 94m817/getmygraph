@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\xillydemo.ncd
+OUTFILE=D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\xillydemo.bit
+FAMILY=Zynq
+PART=xc7z020-1clg484
+WORKINGDIR=D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl
+LICENSE=WebPack
+USER_INFO=210831540_1777497053_210572157_663

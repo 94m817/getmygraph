@@ -1,0 +1,112 @@
+launching strategy on machine: Gambit-VAIO
+"E:\Xilinx\14.7\ISE_DS\ISE\bin\nt\smartxplorer.exe"  --runStrategy  "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\run1"   "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\run1\xillydemo.ngd"  xc7z020-clg484-1  "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\run1\xillydemo_sx.log"   "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\.smartxplorer\Gambit-VAIO_0.stat"   "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\.smartxplorer\smartxplorer.env"   "None"  :oc:sqmap:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsw:sp:sq:cm:sp:sqpower:sq:cl:sp:sqoff:sq:cm:sp:sqbitgen:sq:cl:sp:sqon:sq:cm:sp:sqsynplify:sq:cl:sp:sq:sq:cm:sp:sqngdbuild:sq:cl:sp:sq:dssd:spD:clcl:clbslXillinux:clbslxillinux:cldseval:cldszedboard:clds1.2:clbslvhdl:sp:dsp:spxc7z020:dsclg484:ds1:sq:cm:sp:sqtrce:sq:cl:sp:sq:dsv:sp3:sp:dss:sp1:sp:dsn:sp3:sp:dsfastpaths:sp:dsxml:spxillydemo.twx:sp:sq:cm:sp:sqmax_score:sq:cl:spNone:cm:sp:sqindex:sq:cl:sp1:cm:sp:sqpar:sq:cl:sp:sq:sp:dsol:sphigh:sp:sq:cm:sp:sqname:sq:cl:sp:sqMapRunTime:sq:cm:sp:sqxst:sq:cl:sp:sq:sq:cm:sp:sqarea:sq:cl:sp:os:sqlut:sq:cm:sp:sqslice_reg:sq:cs:cm:sp:sqversion:sq:cl:sp:sq14.7:sq:cm:sp:sqenv:sq:cl:sp:sq:oc:cc:sq:cm:sp:sqsxLaunchDir:sq:cl:sp:sqD:cl:bsl:bslXillinux:bsl:bslxillinux:dseval:dszedboard:ds1.2:bsl:bslvhdl:sq:cc map par
+launching strategy on machine: Gambit-VAIO
+"E:\Xilinx\14.7\ISE_DS\ISE\bin\nt\smartxplorer.exe"  --runStrategy  "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\run2"   "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\run2\xillydemo.ngd"  xc7z020-clg484-1  "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\run2\xillydemo_sx.log"   "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\.smartxplorer\Gambit-VAIO_1.stat"   "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\.smartxplorer\smartxplorer.env"   "None"  :oc:sqmap:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:dslogic_opt:spon:sp:dst:sp2:sp:dsw:sp:sq:cm:sp:sqpower:sq:cl:sp:sqoff:sq:cm:sp:sqbitgen:sq:cl:sp:sqon:sq:cm:sp:sqsynplify:sq:cl:sp:sq:sq:cm:sp:sqngdbuild:sq:cl:sp:sq:dssd:spD:clcl:clbslXillinux:clbslxillinux:cldseval:cldszedboard:clds1.2:clbslvhdl:sp:dsp:spxc7z020:dsclg484:ds1:sq:cm:sp:sqtrce:sq:cl:sp:sq:dsv:sp3:sp:dss:sp1:sp:dsn:sp3:sp:dsfastpaths:sp:dsxml:spxillydemo.twx:sp:sq:cm:sp:sqmax_score:sq:cl:spNone:cm:sp:sqindex:sq:cl:sp2:cm:sp:sqpar:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:sq:cm:sp:sqname:sq:cl:sp:sqMapLogicOpt:sq:cm:sp:sqxst:sq:cl:sp:sq:sq:cm:sp:sqarea:sq:cl:sp:os:sqlut:sq:cm:sp:sqslice_reg:sq:cs:cm:sp:sqversion:sq:cl:sp:sq14.7:sq:cm:sp:sqenv:sq:cl:sp:sq:oc:cc:sq:cm:sp:sqsxLaunchDir:sq:cl:sp:sqD:cl:bsl:bslXillinux:bsl:bslxillinux:dseval:dszedboard:ds1.2:bsl:bslvhdl:sq:cc map par
+launching strategy on machine: Gambit-VAIO
+"E:\Xilinx\14.7\ISE_DS\ISE\bin\nt\smartxplorer.exe"  --runStrategy  "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\run3"   "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\run3\xillydemo.ngd"  xc7z020-clg484-1  "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\run3\xillydemo_sx.log"   "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\.smartxplorer\Gambit-VAIO_2.stat"   "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\.smartxplorer\smartxplorer.env"   "None"  :oc:sqmap:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:dst:sp3:sp:dsw:sp:sq:cm:sp:sqpower:sq:cl:sp:sqoff:sq:cm:sp:sqbitgen:sq:cl:sp:sqon:sq:cm:sp:sqsynplify:sq:cl:sp:sq:sq:cm:sp:sqngdbuild:sq:cl:sp:sq:dssd:spD:clcl:clbslXillinux:clbslxillinux:cldseval:cldszedboard:clds1.2:clbslvhdl:sp:dsp:spxc7z020:dsclg484:ds1:sq:cm:sp:sqtrce:sq:cl:sp:sq:dsv:sp3:sp:dss:sp1:sp:dsn:sp3:sp:dsfastpaths:sp:dsxml:spxillydemo.twx:sp:sq:cm:sp:sqmax_score:sq:cl:spNone:cm:sp:sqindex:sq:cl:sp3:cm:sp:sqpar:sq:cl:sp:sq:sp:dsol:sphigh:sp:sq:cm:sp:sqname:sq:cl:sp:sqMapTimingExtraEffort:sq:cm:sp:sqxst:sq:cl:sp:sq:sq:cm:sp:sqarea:sq:cl:sp:os:sqlut:sq:cm:sp:sqslice_reg:sq:cs:cm:sp:sqversion:sq:cl:sp:sq14.7:sq:cm:sp:sqenv:sq:cl:sp:sq:oc:cc:sq:cm:sp:sqsxLaunchDir:sq:cl:sp:sqD:cl:bsl:bslXillinux:bsl:bslxillinux:dseval:dszedboard:ds1.2:bsl:bslvhdl:sq:cc map par
+launching strategy on machine: Gambit-VAIO
+"E:\Xilinx\14.7\ISE_DS\ISE\bin\nt\smartxplorer.exe"  --runStrategy  "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\run4"   "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\run4\xillydemo.ngd"  xc7z020-clg484-1  "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\run4\xillydemo_sx.log"   "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\.smartxplorer\Gambit-VAIO_3.stat"   "D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\.smartxplorer\smartxplorer.env"   "None"  :oc:sqmap:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:dslogic_opt:spon:sp:dsregister_duplication:spon:sp:dst:sp2:sp:dsw:sp:sq:cm:sp:sqpower:sq:cl:sp:sqoff:sq:cm:sp:sqbitgen:sq:cl:sp:sqon:sq:cm:sp:sqsynplify:sq:cl:sp:sq:sq:cm:sp:sqngdbuild:sq:cl:sp:sq:dssd:spD:clcl:clbslXillinux:clbslxillinux:cldseval:cldszedboard:clds1.2:clbslvhdl:sp:dsp:spxc7z020:dsclg484:ds1:sq:cm:sp:sqtrce:sq:cl:sp:sq:dsv:sp3:sp:dss:sp1:sp:dsn:sp3:sp:dsfastpaths:sp:dsxml:spxillydemo.twx:sp:sq:cm:sp:sqmax_score:sq:cl:spNone:cm:sp:sqindex:sq:cl:sp4:cm:sp:sqpar:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:sq:cm:sp:sqname:sq:cl:sp:sqMapLogicOptRegDup:sq:cm:sp:sqxst:sq:cl:sp:sq:sq:cm:sp:sqarea:sq:cl:sp:os:sqlut:sq:cm:sp:sqslice_reg:sq:cs:cm:sp:sqversion:sq:cl:sp:sq14.7:sq:cm:sp:sqenv:sq:cl:sp:sq:oc:cc:sq:cm:sp:sqsxLaunchDir:sq:cl:sp:sqD:cl:bsl:bslXillinux:bsl:bslxillinux:dseval:dszedboard:ds1.2:bsl:bslvhdl:sq:cc map par
+Gambit-VAIO_0 Gambit-VAIO_0.stat 1395327441.68 1395327441.18 1395327442.06
+Gambit-VAIO_1 Gambit-VAIO_1.stat 1395327442.05 1395327441.43 1395327442.06
+Gambit-VAIO_2 waiting on D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\.smartxplorer\.sx.keepAlive.Gambit-VAIO_2
+Gambit-VAIO_3 waiting on D:\Xillinux\xillinux-eval-zedboard-1.2\vhdl\smartxplorer_results\.smartxplorer\.sx.keepAlive.Gambit-VAIO_3
+Gambit-VAIO_0 no new lines in stat file
+Gambit-VAIO_1 no new lines in stat file
+Gambit-VAIO_2 Gambit-VAIO_2.stat 1395327442.15 1395327442.06 1395327456.26
+Gambit-VAIO_3 Gambit-VAIO_3.stat 1395327442.36 1395327442.06 1395327456.26
+Gambit-VAIO_0 no new lines in stat file
+Gambit-VAIO_1 no new lines in stat file
+Gambit-VAIO_2 no new lines in stat file
+Gambit-VAIO_3 no new lines in stat file
+Gambit-VAIO_0 Gambit-VAIO_0.stat 1395327471.7 1395327442.06 1395327486.27
+Gambit-VAIO_1 Gambit-VAIO_1.stat 1395327472.07 1395327442.06 1395327486.28
+Gambit-VAIO_2 Gambit-VAIO_2.stat 1395327472.18 1395327456.26 1395327486.29
+Gambit-VAIO_3 Gambit-VAIO_3.stat 1395327472.38 1395327456.27 1395327486.29
+Gambit-VAIO_0 no new lines in stat file
+Gambit-VAIO_1 no new lines in stat file
+Gambit-VAIO_2 no new lines in stat file
+Gambit-VAIO_3 no new lines in stat file
+Gambit-VAIO_0 Gambit-VAIO_0.stat 1395327501.71 1395327486.28 1395327516.33
+Gambit-VAIO_1 Gambit-VAIO_1.stat 1395327502.09 1395327486.29 1395327516.33
+Gambit-VAIO_2 Gambit-VAIO_2.stat 1395327502.2 1395327486.29 1395327516.34
+Gambit-VAIO_3 Gambit-VAIO_3.stat 1395327502.4 1395327486.3 1395327516.35
+Gambit-VAIO_0 no new lines in stat file
+Gambit-VAIO_1 no new lines in stat file
+Gambit-VAIO_2 no new lines in stat file
+Gambit-VAIO_3 no new lines in stat file
+Gambit-VAIO_0 Gambit-VAIO_0.stat 1395327531.72 1395327516.33 1395327546.38
+Gambit-VAIO_1 Gambit-VAIO_1.stat 1395327532.12 1395327516.34 1395327546.39
+Gambit-VAIO_2 Gambit-VAIO_2.stat 1395327532.2 1395327516.35 1395327546.41
+Gambit-VAIO_3 Gambit-VAIO_3.stat 1395327532.41 1395327516.35 1395327546.42
+Gambit-VAIO_0 no new lines in stat file
+Gambit-VAIO_1 no new lines in stat file
+Gambit-VAIO_2 no new lines in stat file
+Gambit-VAIO_3 no new lines in stat file
+Gambit-VAIO_0 Gambit-VAIO_0.stat 1395327561.72 1395327546.39 1395327576.38
+Gambit-VAIO_1 Gambit-VAIO_1.stat 1395327562.12 1395327546.41 1395327576.39
+Gambit-VAIO_2 Gambit-VAIO_2.stat 1395327562.2 1395327546.42 1395327576.4
+Gambit-VAIO_3 Gambit-VAIO_3.stat 1395327562.41 1395327546.43 1395327576.41
+Gambit-VAIO_0 no new lines in stat file
+Gambit-VAIO_1 no new lines in stat file
+Gambit-VAIO_2 no new lines in stat file
+Gambit-VAIO_3 no new lines in stat file
+Gambit-VAIO_0 Gambit-VAIO_0.stat 1395327591.76 1395327576.38 1395327606.44
+Gambit-VAIO_1 Gambit-VAIO_1.stat 1395327592.14 1395327576.39 1395327606.45
+Gambit-VAIO_2 Gambit-VAIO_2.stat 1395327592.21 1395327576.4 1395327606.47
+Gambit-VAIO_3 Gambit-VAIO_3.stat 1395327592.42 1395327576.41 1395327606.47
+Gambit-VAIO_0 no new lines in stat file
+Gambit-VAIO_1 no new lines in stat file
+Gambit-VAIO_2 no new lines in stat file
+Gambit-VAIO_3 no new lines in stat file
+Gambit-VAIO_0 Gambit-VAIO_0.stat 1395327621.76 1395327606.44 1395327636.44
+Gambit-VAIO_1 Gambit-VAIO_1.stat 1395327622.14 1395327606.46 1395327636.45
+Gambit-VAIO_2 Gambit-VAIO_2.stat 1395327622.21 1395327606.47 1395327636.46
+Gambit-VAIO_3 Gambit-VAIO_3.stat 1395327622.42 1395327606.48 1395327636.47
+Gambit-VAIO_0 no new lines in stat file
+Gambit-VAIO_1 no new lines in stat file
+Gambit-VAIO_2 no new lines in stat file
+Gambit-VAIO_3 no new lines in stat file
+Gambit-VAIO_0 Gambit-VAIO_0.stat 1395327651.76 1395327636.45 1395327666.45
+Gambit-VAIO_1 Gambit-VAIO_1.stat 1395327652.14 1395327636.46 1395327666.46
+Gambit-VAIO_2 Gambit-VAIO_2.stat 1395327652.21 1395327636.47 1395327666.47
+Gambit-VAIO_3 Gambit-VAIO_3.stat 1395327652.41 1395327636.48 1395327666.48
+Gambit-VAIO_0 no new lines in stat file
+Gambit-VAIO_1 no new lines in stat file
+Gambit-VAIO_2 no new lines in stat file
+Gambit-VAIO_3 no new lines in stat file
+Gambit-VAIO_0 Gambit-VAIO_0.stat 1395327681.76 1395327666.46 1395327696.49
+Gambit-VAIO_1 Gambit-VAIO_1.stat 1395327682.14 1395327666.47 1395327696.49
+Gambit-VAIO_2 Gambit-VAIO_2.stat 1395327682.21 1395327666.48 1395327696.5
+Gambit-VAIO_3 Gambit-VAIO_3.stat 1395327682.42 1395327666.52 1395327696.51
+Gambit-VAIO_0 no new lines in stat file
+Gambit-VAIO_1 no new lines in stat file
+Gambit-VAIO_2 no new lines in stat file
+Gambit-VAIO_3 no new lines in stat file
+Gambit-VAIO_0 Gambit-VAIO_0.stat 1395327711.77 1395327696.49 1395327726.57
+Gambit-VAIO_1 Gambit-VAIO_1.stat 1395327712.14 1395327696.5 1395327726.69
+Gambit-VAIO_2 Gambit-VAIO_2.stat 1395327712.22 1395327696.51 1395327726.7
+Gambit-VAIO_3 Gambit-VAIO_3.stat 1395327712.44 1395327696.52 1395327726.99
+Gambit-VAIO_0 no new lines in stat file
+Gambit-VAIO_1 no new lines in stat file
+Gambit-VAIO_2 no new lines in stat file
+Gambit-VAIO_3 no new lines in stat file
+Gambit-VAIO_0 Gambit-VAIO_0.stat 1395327741.79 1395327726.69 1395327756.61
+Gambit-VAIO_1 Gambit-VAIO_1.stat 1395327742.16 1395327726.69 1395327756.62
+Gambit-VAIO_2 Gambit-VAIO_2.stat 1395327742.22 1395327726.99 1395327756.63
+Gambit-VAIO_3 Gambit-VAIO_3.stat 1395327742.45 1395327726.99 1395327756.64
+Gambit-VAIO_0 no new lines in stat file
+Gambit-VAIO_1 no new lines in stat file
+Gambit-VAIO_2 no new lines in stat file
+Gambit-VAIO_3 no new lines in stat file
+taskkill /F /pid 6504 /T
+taskkill /F /pid 5404 /T
+taskkill /F /pid 5404 /T
+taskkill /F /pid 6556 /T
+taskkill /F /pid 6540 /T
+taskkill /F /pid 6540 /T
+taskkill /F /pid 5428 /T
+taskkill /F /pid 5796 /T
+taskkill /F /pid 5796 /T
+taskkill /F /pid 6900 /T
+taskkill /F /pid 6472 /T
+taskkill /F /pid 6472 /T

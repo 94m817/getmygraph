@@ -1,0 +1,176 @@
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../system/implementation -sd ../cores -sd ../runonce -nt timestamp -uc src/xillydemo.ucf -p xc7z020-clg484-1 xillydemo.ngc xillydemo.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+par -w -intstyle ise -ol high -mt off xillydemo_map.ncd xillydemo.ncd xillydemo.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml xillydemo.twx xillydemo.ncd -o xillydemo.twr xillydemo.pcf 
+bitgen -intstyle ise -f xillydemo.ut xillydemo.ncd 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../system/implementation -sd ../cores -sd ../runonce -nt timestamp -uc src/xillydemo.ucf -p xc7z020-clg484-1 xillydemo.ngc xillydemo.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+par -w -intstyle ise -ol high -mt off xillydemo_map.ncd xillydemo.ncd xillydemo.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml xillydemo.twx xillydemo.ncd -o xillydemo.twr xillydemo.pcf 
+bitgen -intstyle ise -f xillydemo.ut xillydemo.ncd 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../system/implementation -sd ../cores -sd ../runonce -nt timestamp -uc src/xillydemo.ucf -p xc7z020-clg484-1 xillydemo.ngc xillydemo.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+par -w -intstyle ise -ol high -mt off xillydemo_map.ncd xillydemo.ncd xillydemo.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml xillydemo.twx xillydemo.ncd -o xillydemo.twr xillydemo.pcf 
+bitgen -intstyle ise -f xillydemo.ut xillydemo.ncd 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../system/implementation -sd ../cores -sd ../runonce -nt timestamp -uc src/xillydemo.ucf -p xc7z020-clg484-1 xillydemo.ngc xillydemo.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+par -w -intstyle ise -ol high -mt off xillydemo_map.ncd xillydemo.ncd xillydemo.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml xillydemo.twx xillydemo.ncd -o xillydemo.twr xillydemo.pcf 
+bitgen -intstyle ise -f xillydemo.ut xillydemo.ncd 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../system/implementation -sd ../cores -sd ../runonce -nt timestamp -uc src/xillydemo.ucf -p xc7z020-clg484-1 xillydemo.ngc xillydemo.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+par -w -intstyle ise -ol high -mt off xillydemo_map.ncd xillydemo.ncd xillydemo.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml xillydemo.twx xillydemo.ncd -o xillydemo.twr xillydemo.pcf 
+bitgen -intstyle ise -f xillydemo.ut xillydemo.ncd 
+bitgen -intstyle ise -f xillydemo.ut xillydemo.ncd 
+bitgen -intstyle ise -f xillydemo.ut xillydemo.ncd 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../system/implementation -sd ../cores -sd ../runonce -nt timestamp -uc src/xillydemo.ucf -p xc7z020-clg484-1 xillydemo.ngc xillydemo.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+par -w -intstyle ise -ol high -mt off xillydemo_map.ncd xillydemo.ncd xillydemo.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml xillydemo.twx xillydemo.ncd -o xillydemo.twr xillydemo.pcf 
+bitgen -intstyle ise -f xillydemo.ut xillydemo.ncd 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../system/implementation -sd ../cores -sd ../runonce -nt timestamp -uc src/xillydemo.ucf -p xc7z020-clg484-1 xillydemo.ngc xillydemo.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+par -w -intstyle ise -ol high -mt off xillydemo_map.ncd xillydemo.ncd xillydemo.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml xillydemo.twx xillydemo.ncd -o xillydemo.twr xillydemo.pcf 
+bitgen -intstyle ise -f xillydemo.ut xillydemo.ncd 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../system/implementation -sd ../cores -sd ../runonce -nt timestamp -uc src/xillydemo.ucf -p xc7z020-clg484-1 xillydemo.ngc xillydemo.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../system/implementation -sd ../cores -sd ../runonce -nt timestamp -uc src/xillydemo.ucf -p xc7z020-clg484-1 xillydemo.ngc xillydemo.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+par -w -intstyle ise -ol high -mt off xillydemo_map.ncd xillydemo.ncd xillydemo.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml xillydemo.twx xillydemo.ncd -o xillydemo.twr xillydemo.pcf 
+bitgen -intstyle ise -f xillydemo.ut xillydemo.ncd 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../system/implementation -sd ../cores -sd ../runonce -nt timestamp -uc src/xillydemo.ucf -p xc7z020-clg484-1 xillydemo.ngc xillydemo.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+par -w -intstyle ise -ol high -mt off xillydemo_map.ncd xillydemo.ncd xillydemo.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml xillydemo.twx xillydemo.ncd -o xillydemo.twr xillydemo.pcf 
+bitgen -intstyle ise -f xillydemo.ut xillydemo.ncd 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../system/implementation -sd ../cores -sd ../runonce -nt timestamp -uc src/xillydemo.ucf -p xc7z020-clg484-1 xillydemo.ngc xillydemo.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+par -w -intstyle ise -ol high -mt off xillydemo_map.ncd xillydemo.ncd xillydemo.pcf 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../system/implementation -sd ../cores -sd ../runonce -nt timestamp -uc src/xillydemo.ucf -p xc7z020-clg484-1 xillydemo.ngc xillydemo.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+par -w -intstyle ise -ol high -mt off xillydemo_map.ncd xillydemo.ncd xillydemo.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml xillydemo.twx xillydemo.ncd -o xillydemo.twr xillydemo.pcf 
+bitgen -intstyle ise -f xillydemo.ut xillydemo.ncd 
+vhdtdtfi -lib work src/xillybus_core.v -lib work src/system.v -lib work src/fifo_8x2048.v -lib work src/fifo_32x512.v -lib work test.vhd -lib work src/xillybus.v -lib work src/smbus.v -lib work src/i2s_audio.v -lib work src/xillydemo.vhd -prj xillydemo -o xillydemo.spl -module xillydemo -template E:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+vhdtdtfi -prj xillydemo -o D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.vhi -lib work D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/src//xillydemo.vhd -module xillydemo -template E:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror 
+vhdtdtfi -lib work src/xillybus_core.v -lib work src/system.v -lib work src/fifo_8x2048.v -lib work src/fifo_32x512.v -lib work test.vhd -lib work src/xillybus.v -lib work src/smbus.v -lib work src/i2s_audio.v -lib work src/xillydemo.vhd -prj xillydemo -o xillydemo.spl -module xillydemo -template E:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work src/xillybus_core.v -lib work src/system.v -lib work src/fifo_8x2048.v -lib work src/fifo_32x512.v -lib work test.vhd -lib work src/xillybus.v -lib work src/smbus.v -lib work src/i2s_audio.v -lib work src/xillydemo.vhd -prj xillydemo -o xillydemo.spl -module xillydemo -template E:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work src/xillybus_core.v -lib work src/system.v -lib work src/fifo_8x2048.v -lib work src/fifo_32x512.v -lib work test.vhd -lib work src/xillybus.v -lib work src/smbus.v -lib work src/i2s_audio.v -lib work src/xillydemo.vhd -prj xillydemo -o xillydemo.spl -module xillydemo -template E:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work src/xillybus_core.v -lib work src/system.v -lib work src/fifo_8x2048.v -lib work src/fifo_32x512.v -lib work test.vhd -lib work src/xillybus.v -lib work src/smbus.v -lib work src/i2s_audio.v -lib work src/xillydemo.vhd -prj xillydemo -o xillydemo.spl -module xillydemo -template E:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work src/xillybus_core.v -lib work src/system.v -lib work src/fifo_8x2048.v -lib work src/fifo_32x512.v -lib work test.vhd -lib work src/xillybus.v -lib work src/smbus.v -lib work src/i2s_audio.v -lib work src/xillydemo.vhd -prj xillydemo -o xillydemo.spl -module xillydemo -template E:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work src/xillybus_core.v -lib work src/system.v -lib work src/fifo_8x2048.v -lib work src/fifo_32x512.v -lib work test.vhd -lib work src/xillybus.v -lib work src/smbus.v -lib work src/i2s_audio.v -lib work src/xillydemo.vhd -prj xillydemo -o xillydemo.spl -module xillydemo -template E:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work src/xillybus_core.v -lib work src/system.v -lib work src/fifo_8x2048.v -lib work src/fifo_32x512.v -lib work test.vhd -lib work src/xillybus.v -lib work src/smbus.v -lib work src/i2s_audio.v -lib work src/xillydemo.vhd -prj xillydemo -o xillydemo.spl -module xillydemo -template E:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work src/xillybus_core.v -lib work src/system.v -lib work src/fifo_8x2048.v -lib work src/fifo_32x512.v -lib work test.vhd -lib work src/xillybus.v -lib work src/smbus.v -lib work src/i2s_audio.v -lib work src/xillydemo.vhd -prj xillydemo -o xillydemo.spl -module xillydemo -template E:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work src/xillybus_core.v -lib work src/system.v -lib work src/fifo_8x2048.v -lib work src/fifo_32x512.v -lib work test.vhd -lib work src/xillybus.v -lib work src/smbus.v -lib work src/i2s_audio.v -lib work src/xillydemo.vhd -prj xillydemo -o xillydemo.spl -module xillydemo -template E:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family zynq xillydemo.spl D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.sym 
+vhdtdtfi -lib work src/xillybus_core.v -lib work src/system.v -lib work src/fifo_8x2048.v -lib work src/fifo_32x512.v -lib work test.vhd -lib work src/xillybus.v -lib work src/smbus.v -lib work src/i2s_audio.v -lib work src/xillydemo.vhd -prj xillydemo -o xillydemo.spl -module xillydemo -template E:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family zynq xillydemo.spl D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.sym 
+vhdtdtfi -lib work src/xillybus_core.v -lib work src/system.v -lib work src/fifo_8x2048.v -lib work src/fifo_32x512.v -lib work test.vhd -lib work src/xillybus.v -lib work src/smbus.v -lib work src/i2s_audio.v -lib work src/xillydemo.vhd -prj xillydemo -o xillydemo.spl -module xillydemo -template E:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family zynq xillydemo.spl D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.sym 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../system/implementation -sd ../cores -sd ../runonce -nt timestamp -uc src/xillydemo.ucf -p xc7z020-clg484-1 xillydemo.ngc xillydemo.ngd  
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+xst -intstyle ise -ifn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.xst" -ofn "D:/Xillinux/xillinux-eval-zedboard-1.2/vhdl/xillydemo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../system/implementation -sd ../cores -sd ../runonce -nt timestamp -uc src/xillydemo.ucf -p xc7z020-clg484-1 xillydemo.ngc xillydemo.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 2 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o xillydemo_map.ncd xillydemo.ngd xillydemo.pcf 
+par -w -intstyle ise -ol high -mt off xillydemo_map.ncd xillydemo.ncd xillydemo.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml xillydemo.twx xillydemo.ncd -o xillydemo.twr xillydemo.pcf 
+bitgen -intstyle ise -f xillydemo.ut xillydemo.ncd 

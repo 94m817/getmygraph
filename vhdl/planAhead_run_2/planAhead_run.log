@@ -1,0 +1,79 @@
+
+****** PlanAhead v14.7
+  **** Build 321239 by xbuild on Fri Sep 27 19:31:35 MDT 2013
+    ** Copyright 1986-1999, 2001-2013 Xilinx, Inc. All Rights Reserved.
+
+INFO: [Common 17-78] Attempting to get a license: PlanAhead
+INFO: [Common 17-290] Got license for PlanAhead
+INFO: [Device 21-36] Loading parts and site information from E:/Xilinx/14.7/ISE_DS/PlanAhead/data/parts/arch.xml
+Parsing RTL primitives file [E:/Xilinx/14.7/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+Finished parsing RTL primitives file [E:/Xilinx/14.7/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+start_gui
+source D:/Xillinux/xillinux-eval-zedboard-1.2-Backup/vhdl/pa.fromHdl.tcl
+# create_project -name xillydemo -dir "D:/Xillinux/xillinux-eval-zedboard-1.2-Backup/vhdl/planAhead_run_2" -part xc7z020clg484-1
+# set_param project.pinAheadLayout yes
+# set srcset [get_property srcset [current_run -impl]]
+# set_property target_constrs_file "D:/Xillinux/xillinux-eval-zedboard-1.2-Backup/vhdl/src/xillydemo.ucf" [current_fileset -constrset]
+Adding file 'D:/Xillinux/xillinux-eval-zedboard-1.2-Backup/vhdl/src/xillydemo.ucf' to fileset 'constrs_1'
+# set hdlfile [add_files [list {src/xillybus_core.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {src/system.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {src/fifo_8x2048.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {src/fifo_32x512.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {src/xillybus.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {src/smbus.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {src/i2s_audio.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {src/xillydemo.vhd}]]
+# set_property file_type VHDL $hdlfile
+# set_property library work $hdlfile
+# set_property top xillydemo $srcset
+# add_files [list {D:/Xillinux/xillinux-eval-zedboard-1.2-Backup/vhdl/src/xillydemo.ucf}] -fileset [get_property constrset [current_run]]
+# add_files [list {../system/implementation/system_axi4lite_0_wrapper.ncf}] -fileset [get_property constrset [current_run]]
+# add_files [list {../system/implementation/system_axi_interconnect_0_wrapper.ncf}] -fileset [get_property constrset [current_run]]
+# add_files [list {../system/implementation/system_axi_interconnect_1_wrapper.ncf}] -fileset [get_property constrset [current_run]]
+# add_files [list {../system/implementation/system_processing_system7_0_wrapper.ncf}] -fileset [get_property constrset [current_run]]
+# open_rtl_design -part xc7z020clg484-1
+Using Verific elaboration
+Parsing VHDL file "E:/Xilinx/14.7/ISE_DS/PlanAhead/data/parts/xilinx/rtl/lib/synplify/synattr.vhd" into library synplify
+Parsing VHDL file "E:/Xilinx/14.7/ISE_DS/PlanAhead/data/parts/xilinx/rtl/lib/synplify/synattr.vhd" into library synplify
+Parsing VHDL file "D:/Xillinux/xillinux-eval-zedboard-1.2-Backup/vhdl/src/xillydemo.vhd" into library work
+CRITICAL WARNING: [EDIF 20-96] Could not resolve non-primitive black box cell 'system' instantiated as 'system_i' [D:/Xillinux/xillinux-eval-zedboard-1.2-Backup/vhdl/src/xillybus.v:186]
+Resolution: File names need to match cell names: an EDIF definition will be found in system.edf; an HDL definition may be placed in any Verilog/VHDL file.
+CRITICAL WARNING: [EDIF 20-96] Could not resolve non-primitive black box cell 'xillybus_core' instantiated as 'xillybus_core_ins' [D:/Xillinux/xillinux-eval-zedboard-1.2-Backup/vhdl/src/xillybus.v:278]
+Resolution: File names need to match cell names: an EDIF definition will be found in xillybus_core.edf; an HDL definition may be placed in any Verilog/VHDL file.
+CRITICAL WARNING: [EDIF 20-96] Could not resolve non-primitive black box cell 'fifo_32x512' instantiated as 'fifo_32' [D:/Xillinux/xillinux-eval-zedboard-1.2-Backup/vhdl/src/xillydemo.vhd:454]
+Resolution: File names need to match cell names: an EDIF definition will be found in fifo_32x512.edf; an HDL definition may be placed in any Verilog/VHDL file.
+CRITICAL WARNING: [EDIF 20-96] Could not resolve non-primitive black box cell 'fifo_8x2048' instantiated as 'fifo_8' [D:/Xillinux/xillinux-eval-zedboard-1.2-Backup/vhdl/src/xillydemo.vhd:472]
+Resolution: File names need to match cell names: an EDIF definition will be found in fifo_8x2048.edf; an HDL definition may be placed in any Verilog/VHDL file.
+Loading clock regions from E:/Xilinx/14.7/ISE_DS/PlanAhead/data\parts/xilinx/zynq/zynq/xc7z020/ClockRegion.xml
+Loading clock buffers from E:/Xilinx/14.7/ISE_DS/PlanAhead/data\parts/xilinx/zynq/zynq/xc7z020/ClockBuffers.xml
+Loading clock placement rules from E:/Xilinx/14.7/ISE_DS/PlanAhead/data/parts/xilinx/zynq/ClockPlacerRules.xml
+Loading package pin functions from E:/Xilinx/14.7/ISE_DS/PlanAhead/data\parts/xilinx/zynq/PinFunctions.xml...
+Loading package from E:/Xilinx/14.7/ISE_DS/PlanAhead/data\parts/xilinx/zynq/zynq/xc7z020/clg484/Package.xml
+Loading io standards from E:/Xilinx/14.7/ISE_DS/PlanAhead/data\./parts/xilinx/zynq/IOStandards.xml
+Loading list of drcs for the architecture : E:/Xilinx/14.7/ISE_DS/PlanAhead/data\./parts/xilinx/zynq/drc.xml
+Parsing UCF File [D:/Xillinux/xillinux-eval-zedboard-1.2-Backup/vhdl/src/xillydemo.ucf]
+Finished Parsing UCF File [D:/Xillinux/xillinux-eval-zedboard-1.2-Backup/vhdl/src/xillydemo.ucf]
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Phase 0 | Netlist Checksum: 4b3707a3
+open_rtl_design: Time (s): elapsed = 00:00:28 . Memory (MB): peak = 398.570 ; gain = 86.828
+update_compile_order -fileset sim_1
+exit
+ERROR: [Common 17-39] 'stop_gui' failed due to earlier errors.
+INFO: [Common 17-206] Exiting PlanAhead at Fri Jan 24 16:57:00 2014...
+INFO: [Common 17-83] Releasing license: PlanAhead

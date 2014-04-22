@@ -1,0 +1,14 @@
+[Inputs]
+clk
+srst
+wr_en
+rd_en
+=din[7:0]=
+[Outputs]
+full
+empty
+=dout[7:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel fifo_8x2048
+
