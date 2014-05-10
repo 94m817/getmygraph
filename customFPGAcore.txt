@@ -1,0 +1,4 @@
+Users can create specific Xillybus IP cores with only the required FIFOs and components at the required speeds.
+
+Please logon to http://xillybus.com/custom-ip-factory. Create an accout and generate the required IP Cores from the website.
+The instruction to create and download the IP Cores is available at the website.
