@@ -1,0 +1,30 @@
+Folder - Boot:
+
+Contains the c code to transfer data via the porocessor to the FPGA.
+Copy the code to home/xillydemo/demoapps.
+This folder has a makefile. add the names of the files to the list in the make file and run the type make at terminal.
+
+If any old executables  exist in the folder, run Make clean.
+
+In order to send/get data to the FPGA, run the executable as  ./swdemo(or  ./srdemo) and pass the required arguments. Details on the arguments are in the respective c files.
+
+
+Folder Boot-Bk:
+
+Contains the FPGA configuration file that has to be copied to the sdcard in which the xillinux installation exists.
+Each folder has a .bin file and a .bit file. Change the name of the .bin file to boot.bin and copy it to the SDCard in order to configure the FPGA as described by the folder name.
+
+The .bit file is required to create the .bin file. On ur PC, copy the .bit file to the boot folder in the xillinux evaluation kit provided by xilybus.
+Once copied, open command prompt and run makeboot.bat. Make sure that the environment variables for xilinx have been set.
+
+Folder vhdl:
+
+Contains the VHDL project for xillybus along with a default code to use the FIFOs.
+
+Note:
+1) The xillybus project requires that you always create a .bin file and copy it to the SDCard. There's no way as of now,
+to use JTAG or any other option to configure the FPGA.
+
+2) Requirements: It is xpected that you have a copy of the xillybus Xillinux files provided by Xillybus in your PC.
+Download the zip file from here: http://xillybus.com/downloads/xillinux-eval-zedboard-1.3.zip
+
